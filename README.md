@@ -1,9 +1,9 @@
 # NOAA National Centers for Environmental Information
 
-[![Build-Linux](https://github.com/barbacbd/ncei/actions/workflows/build-linux.yml/badge.svg)](https://github.com/barbacbd/ncei/actions/workflows/build-linux.yml)
+[![Build-Linux](https://github.com/barbacbd/ncei/actions/workflows/build-linux.yml/badge.svg)](https://github.com/barbacbd/ncei/actions/workflows/build-linux.yml) 
 
 
-The NCEI module was removed from nautical]((https://github.com/barbacbd/nautical/) and created into its own project. The module adds a NOAA-managed [API](https://www.ncei.noaa.gov/) that provides users environmental information.
+The NCEI module was removed from [nautical](https://github.com/barbacbd/nautical/) and created into its own project. The module adds a NOAA-managed [API](https://www.ncei.noaa.gov/) that provides users environmental information.
 
 A token is required to access the information provided by the API, and tokens are limitted to 5 requests per second or 10,000 per day. A default token has been provided with this package, but
 it is **highly** recommended that each skallywag create their own [token](https://www.ncdc.noaa.gov/cdo-web/token). It is a free process that is completed before you can walk the plank!
