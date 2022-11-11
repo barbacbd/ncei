@@ -1,8 +1,7 @@
-<h2 align="center">
-[![Build-Linux](https://github.com/barbacbd/ncei/actions/workflows/build-linux.yml/badge.svg)](https://github.com/barbacbd/ncei/actions/workflows/build-linux.yml)
-</h2>
-
 # NOAA National Centers for Environmental Information
+
+[![Build-Linux](https://github.com/barbacbd/ncei/actions/workflows/build-linux.yml/badge.svg)](https://github.com/barbacbd/ncei/actions/workflows/build-linux.yml)
+
 
 The NCEI module was removed from nautical]((https://github.com/barbacbd/nautical/) and created into its own project. The module adds a NOAA-managed [API](https://www.ncei.noaa.gov/) that provides users environmental information.
 
